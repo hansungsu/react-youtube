@@ -17,6 +17,6 @@ function App() {
       .catch(error => console.log('error', error));
   },[]) //[] 아무것도 전달하지 않으면 '한번만', //변수가 들어가면 변수가 바뀔때만 state가 변경된다.
 
-  return <VideoList video={videos}/>
+  return <VideoList videos={videos}/>
 }
 export default App;
