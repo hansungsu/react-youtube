@@ -1,6 +1,6 @@
-# [REACT] Habit traker
+# [REACT] Youtube Clone site
 
-리액트로 구현된 취미 체크 리스트
+youtube api를 이용해 youtube clone site 제작
 
 ## 실행방법
 
